@@ -13,4 +13,8 @@ Background : Retail businesses face challenges in efficiently managing inventory
  
   Requiremnet : ![Screenshot 2024-12-05 at 7 57 10 PM](https://github.com/user-attachments/assets/f1478337-e458-45b7-8815-5608fdbae69c)
 
- 
+
+   
+
+  [ capstone team infinity final.pdf](https://github.com/user-attachments/files/18024301/capstone.team.infinity.final.pdf)
+
